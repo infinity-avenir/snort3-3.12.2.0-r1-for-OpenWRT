@@ -1,10 +1,11 @@
-Source : https://github.com/snort3/snort3/releases/tag/3.12.2.0
-Date : Apr 24, 2026
-Version : Snort v3.12.2.0
-Link : 
-https://github.com/snort3/snort3/archive/refs/tags/3.12.2.0.tar.gz
-https://github.com/snort3/snort3/archive/refs/tags/3.12.2.0.tar.gz
-
+Source : https://github.com/snort3/snort3/releases/tag/3.12.2.0<br>
+Date : Apr 24, 2026<br>
+Version : Snort v3.12.2.0<br>
+Link : <br>
+https://github.com/snort3/snort3/archive/refs/tags/3.12.2.0.tar.gz<br>
+https://github.com/snort3/snort3/archive/refs/tags/3.12.2.0.tar.gz<br>
+<br>
+<br>
 # snort3----snort3-3.12.2.0-r1-for-OpenWRT<br>
 <br>
 Linksys-WRT3200ACM<br>
