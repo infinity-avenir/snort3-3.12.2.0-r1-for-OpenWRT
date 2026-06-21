@@ -9,6 +9,7 @@ https://github.com/snort3/snort3/archive/refs/tags/3.12.2.0.tar.gz<br>
 # snort3----snort3-3.12.2.0-r1-for-OpenWRT<br>
 <br>
 Linksys-WRT3200ACM<br>
+Compiled snort3 APK packages for OpenWRT, Linksys WRT3200ACM<br>
 snort3 -- snort3-3.12.2.0-r1 for OpenWRT - Linksys WRT3200ACM<br>
 folder patth : /openwrt/bin/packages/arm_cortex-a9_vfpv3-d16/packages<br>
 <br>
@@ -28,11 +29,6 @@ GL-inet-Beryl-AX<br>
 <br>
 X86-OpenWRT<br>
 <br>
-Compiled snort3 APK packages for OpenWRT, Linksys WRT3200ACM<br>
-<br>
-Source Code : https://github.com/snort3/snort3/releases/tag/3.12.2.0<br>
-<br>
-
 <br>
 <br>
 /openwrt/bin/packages/arm_cortex-a9_vfpv3-d16/packages<br>
